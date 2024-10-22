@@ -113,5 +113,3 @@ Here’s how you can handle the flow after the QR code is scanned:
 - **Do not store or manage the secret key in the frontend.**
 - **Store the secret key securely in your backend after 2FA is set up.**
 - **Handle all secret-related operations server-side.**
-
-This approach ensures the security of your 2FA implementation. Let me know if you need further assistance!
